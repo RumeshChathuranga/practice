@@ -187,7 +187,7 @@ a {
     font-size: 1.8rem;
     font-weight: 600;
     text-transform: uppercase;
-    padding: 2rem 3rem;
+    padding: 2rem 3vw;
     border: 0;
     border-radius: 40px;
     color: white;
@@ -254,6 +254,7 @@ a {
     border-radius: var(--border-radius);
     outline: none;
     color: var(--color-headings);
+    width: 0;
 }
 .input::placeholder{
     color: #cdcbd7;
@@ -470,6 +471,10 @@ a {
     padding: 4rem;
     border-radius: 5px;
 }
+.callout--signup {
+    transform: translateY(5rem);
+    
+}
 
 .callout--primary {
     background-color: var(--color-primary);
@@ -536,7 +541,7 @@ a {
 }
 /* Blocks */
 .block {
-    --padding-verticle : 6rem;
+    --padding-verticle : 10rem;
     padding: var(--padding-verticle) 2rem;    
 }
 .block__heading {
@@ -670,7 +675,8 @@ a {
 }
 .block-domain__prices {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    color: var(--color-headings);
+    grid-template-columns: repeat(2,1fr);
     grid-template-rows: repeat(2,6rem);
     font-size: 1.5rem;
     font-weight: 600;
