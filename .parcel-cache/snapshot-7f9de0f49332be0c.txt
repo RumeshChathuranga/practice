@@ -1,4 +1,4 @@
-22542
+22504
 96C:\Users\rumar\Documents\Web Development\Moshify\node_modules\stop-iteration-iterator\index.d.ts133963843960722328 0
 79C:\Users\rumar\Documents\Web Development\Moshify\node_modules\node-libs-browser133963843954814262 1
 95C:\Users\rumar\Documents\Web Development\Moshify\node_modules\is-descriptor\.github\FUNDING.yml133963843961615506 0
@@ -7,7 +7,7 @@
 108C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\modules\library\_add-to-unscopables.js133963843962883493 0
 106C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\linux-x64-node-0.11\deasync.node133963843970833636 0
 92C:\Users\rumar\Documents\Web Development\Moshify\node_modules\timers-browserify\CHANGELOG.md133963843951581257 0
-53C:\Users\rumar\Documents\Web Development\Moshify\dist133963850919597939 1
+53C:\Users\rumar\Documents\Web Development\Moshify\dist133963873720208227 1
 85C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\lib\helpers.js133963843960431819 0
 80C:\Users\rumar\Documents\Web Development\Moshify\node_modules\events\security.md133963843966456958 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\micromatch\node_modules\is-extendable133963843955279428 1
@@ -494,7 +494,6 @@
 91C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\linux-x64-node-12133963843971149888 1
 67C:\Users\rumar\Documents\Web Development\Moshify\node_modules\fresh133963843955055297 1
 125C:\Users\rumar\Documents\Web Development\Moshify\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\id.js133963843969055930 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\banner.c3a57844.webp133963840072560547 0
 88C:\Users\rumar\Documents\Web Development\Moshify\node_modules\tweetnacl\nacl-fast.min.js133963843958813526 0
 97C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2022\GetSubstitution.js133963843981582572 0
 86C:\Users\rumar\Documents\Web Development\Moshify\node_modules\repeat-element\README.md133963843953719447 0
@@ -1845,7 +1844,7 @@
 121C:\Users\rumar\Documents\Web Development\Moshify\node_modules\snapdragon\node_modules\source-map\dist\source-map.debug.js133963843961055286 0
 114C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\HTMLQuoteElement.js133963843974350109 0
 130C:\Users\rumar\Documents\Web Development\Moshify\node_modules\side-channel-weakmap\node_modules\object-inspect\test\browser\dom.js133963843960431819 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\easy.91e3d92c.png133963850909196361 0
+71C:\Users\rumar\Documents\Web Development\Moshify\dist\easy.91e3d92c.png133963873720057300 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\snapdragon\node_modules\is-descriptor\test133963843958217701 1
 112C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\helper-module-imports\lib\import-builder.js133963843952389012 0
 144C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\csso\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133963843982289680 0
@@ -2526,7 +2525,6 @@
 76C:\Users\rumar\Documents\Web Development\Moshify\node_modules\to-object-path133963843953239192 1
 112C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\postcss-svgo\dist\lib\url.js133963843953204921 0
 107C:\Users\rumar\Documents\Web Development\Moshify\node_modules\nanomatch\node_modules\extend-shallow\LICENSE133963843952044322 0
-76C:\Users\rumar\Documents\Web Development\Moshify\dist\styles.b61e60ae.js.map133963840074813483 0
 71C:\Users\rumar\Documents\Web Development\Moshify\node_modules\nth-check133963843956579444 1
 109C:\Users\rumar\Documents\Web Development\Moshify\node_modules\which-builtin-type\node_modules\isarray\LICENSE133963843952044322 0
 77C:\Users\rumar\Documents\Web Development\Moshify\node_modules\falafel\LICENSE133963843948246555 0
@@ -2792,7 +2790,6 @@
 117C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\cjs\utils\string.cjs133963843995127319 0
 74C:\Users\rumar\Documents\Web Development\Moshify\node_modules\uuid\AUTHORS133963843947895366 0
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\readable-stream\doc133963843964724547 1
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\Support@2x.f5cc6e56.png133963840072580561 0
 90C:\Users\rumar\Documents\Web Development\Moshify\node_modules\which-builtin-type\README.md133963843960390585 0
 70C:\Users\rumar\Documents\Web Development\Moshify\node_modules\punycode133963843953719447 1
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2019\ValidateTypedArray.js133963843994331306 0
@@ -2929,7 +2926,7 @@
 71C:\Users\rumar\Documents\Web Development\Moshify\node_modules\ripemd160133963843955055297 1
 117C:\Users\rumar\Documents\Web Development\Moshify\node_modules\parcel-bundler\node_modules\postcss-merge-longhand\dist133963843955279428 1
 79C:\Users\rumar\Documents\Web Development\Moshify\node_modules\qs\lib\formats.js133963843954441284 0
-78C:\Users\rumar\Documents\Web Development\Moshify\dist\Support@2x.fc7552d1.webp133963850901222128 0
+78C:\Users\rumar\Documents\Web Development\Moshify\dist\Support@2x.fc7552d1.webp133963873720057300 0
 85C:\Users\rumar\Documents\Web Development\Moshify\node_modules\typed-array-byte-length133963843961034852 1
 130C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-select\lib\pseudo-selectors\aliases.js133963843976576646 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\side-channel-list\.github\FUNDING.yml133963843962199435 0
@@ -3088,7 +3085,7 @@
 84C:\Users\rumar\Documents\Web Development\Moshify\node_modules\which-typed-array\test133963843956815551 1
 114C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\modules\es6.object.get-own-property-names.js133963843979414973 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\static-module\test\brfs\multi_require.js133963843965220232 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\easy@2x.8005229e.png133963850919597939 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\easy@2x.8005229e.png133963873720057300 0
 76C:\Users\rumar\Documents\Web Development\Moshify\node_modules\sax\lib\sax.js133963843955430270 0
 115C:\Users\rumar\Documents\Web Development\Moshify\node_modules\side-channel-weakmap\node_modules\object-inspect\test133963843966456958 1
 74C:\Users\rumar\Documents\Web Development\Moshify\node_modules\tiny-inflate133963843955490215 1
@@ -3281,7 +3278,7 @@
 76C:\Users\rumar\Documents\Web Development\Moshify\node_modules\svgo\.svgo.yml133963843971149888 0
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\is-shared-array-buffer\index.js133963843953719447 0
 115C:\Users\rumar\Documents\Web Development\Moshify\node_modules\resolve\test\shadowed_core\node_modules\util\index.js133963843970675036 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.9a5233f5.css133963850919597939 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.9a5233f5.css133963873720057300 0
 138C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDC.cjs133963843968742684 0
 118C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableColElement-impl.js133963843977824642 0
 110C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Script\Ugaritic.js133963843977513731 0
@@ -5174,7 +5171,6 @@
 70C:\Users\rumar\Documents\Web Development\Moshify\components\plans.html133963594561014242 0
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\to-buffer\README.md133963843958217701 0
 83C:\Users\rumar\Documents\Web Development\Moshify\node_modules\is-callable\.eslintrc133963843950065510 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad.e59bed24.png133963840072600545 0
 96C:\Users\rumar\Documents\Web Development\Moshify\node_modules\string.prototype.trimstart\shim.js133963843961300304 0
 92C:\Users\rumar\Documents\Web Development\Moshify\node_modules\to-buffer\node_modules\isarray133963843953485964 1
 101C:\Users\rumar\Documents\Web Development\Moshify\node_modules\to-buffer\node_modules\isarray\index.js133963843950400449 0
@@ -5604,7 +5600,6 @@
 84C:\Users\rumar\Documents\Web Development\Moshify\node_modules\nanomatch\lib\utils.js133963843960810815 0
 114C:\Users\rumar\Documents\Web Development\Moshify\node_modules\stylehacks\node_modules\postcss-selector-parser\dist133963843968742684 1
 121C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\cjs\generator\create.cjs133963843985919635 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\easy@2x.01b57ce9.webp133963840072570557 0
 179C:\Users\rumar\Documents\Web Development\Moshify\node_modules\parcel-bundler\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors\universal.js133963843966037523 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2020\DetachArrayBuffer.js133963843979100262 0
 96C:\Users\rumar\Documents\Web Development\Moshify\node_modules\static-module\test\assign\comma.js133963843962674074 0
@@ -6029,7 +6024,6 @@
 74C:\Users\rumar\Documents\Web Development\Moshify\node_modules\ajv\lib\refs133963843970833636 1
 83C:\Users\rumar\Documents\Web Development\Moshify\node_modules\buffer-equal\index.js133963843950362081 0
 86C:\Users\rumar\Documents\Web Development\Moshify\node_modules\static-eval\test\eval.js133963843953044801 0
-73C:\Users\rumar\Documents\Web Development\Moshify\dist\styles.b61e60ae.css133963840072420356 0
 114C:\Users\rumar\Documents\Web Development\Moshify\node_modules\css-declaration-sorter\src\orders\concentric-css.mjs133963843962989524 0
 98C:\Users\rumar\Documents\Web Development\Moshify\node_modules\static-eval\test\template-strings.js133963843958067279 0
 120C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\plugin-transform-member-expression-literals\LICENSE133963843948580400 0
@@ -7790,7 +7784,6 @@
 123C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Script_Extensions\Glagolitic.js133963843972684344 0
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\get-proto\README.md133963843961386666 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\purgecss\node_modules\postcss\LICENSE133963843948738458 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\main.fb6bbcaf.js.map133963840074813483 0
 125C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Script_Extensions\Gurung_Khema.js133963843973265920 0
 116C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Script_Extensions\Han.js133963843973338492 0
 82C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\web\index.js133963843984641723 0
@@ -8265,7 +8258,6 @@
 126C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Binary_Property\Emoji_Component.js133963843972205361 0
 98C:\Users\rumar\Documents\Web Development\Moshify\node_modules\buffer\test\node\test-buffer-slow.js133963843967793573 0
 125C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Binary_Property\Emoji_Modifier.js133963843972205361 0
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad.82a10dac.webp133963840072570557 0
 149C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\atrulePrelude.cjs133963843968264932 0
 120C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Binary_Property\Hex_Digit.js133963843973554998 0
 122C:\Users\rumar\Documents\Web Development\Moshify\node_modules\regenerate-unicode-properties\Binary_Property\Ideographic.js133963843973713696 0
@@ -9639,7 +9631,6 @@
 86C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\fn\observable.js133963843986185502 0
 124C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\csso\lib\replace\atrule\keyframes.js133963843996074474 0
 118C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\navigator\NavigatorOnLine-impl.js133963843976717413 0
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\styles.b61e60ae.js133963840074528236 0
 118C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\csso\lib\clean\TypeSelector.js133963843996074474 0
 111C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\HTMLBRElement.js133963843972999141 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2022\Number\bitwiseXOR.js133963843975137975 0
@@ -9844,7 +9835,6 @@
 111C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\postcss-ordered-values\dist133963843959090749 1
 122C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\scope\index.js133963844002706915 0
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\css-tree\lib\syntax\node\Identifier.js133963843970361917 0
-73C:\Users\rumar\Documents\Web Development\Moshify\dist\banner.d99271e5.png133963840072570557 0
 95C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2024\ToPropertyKey.js133963843992979961 0
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\miller-rabin\node_modules\bn.js133963843958793522 1
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\CopyDataProperties.js133963843977087417 0
@@ -9853,7 +9843,6 @@
 123C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\pseudo\index.js133963844002706915 0
 85C:\Users\rumar\Documents\Web Development\Moshify\node_modules\ansi-to-html\lib\cli.js133963843958558184 0
 123C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\node\AnPlusB.js133963843995286167 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\easy@2x.9b4f22cf.png133963840072570557 0
 117C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\postcss\lib\terminal-highlight.js133963843966196242 0
 122C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\node\Atrule.js133963843995286167 0
 129C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-svgo\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133963843995286167 0
@@ -10600,7 +10589,7 @@
 120C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-string\node_modules\postcss-value-parser133963843959411487 1
 134C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\previous-map.js133963843968126239 0
 124C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-string\node_modules\postcss-value-parser\lib133963843960102754 1
-64C:\Users\rumar\Documents\Web Development\Moshify\dist\index.html133963850919597939 0
+64C:\Users\rumar\Documents\Web Development\Moshify\dist\index.html133963873720057300 0
 128C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-string\node_modules\postcss-value-parser\LICENSE133963843948580400 0
 133C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-string\node_modules\postcss-value-parser\package.json133963843958773517 0
 91C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\es6\symbol.js133963843987626965 0
@@ -10660,7 +10649,7 @@
 95C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\isSameType.js133963843985587194 0
 138C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-repeat-style\node_modules\postcss-value-parser\lib\walk.js133963843957603682 0
 101C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-positions\LICENSE-MIT133963843959591824 0
-76C:\Users\rumar\Documents\Web Development\Moshify\dist\banner@2x.30483f21.png133963850919597939 0
+76C:\Users\rumar\Documents\Web Development\Moshify\dist\banner@2x.30483f21.png133963873720057300 0
 113C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\node_modules\object-inspect\test\has.js133963843963552437 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\possible-typed-array-names\index.d.ts133963843960024039 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-normalize-positions\package.json133963843961300304 0
@@ -10769,7 +10758,7 @@
 124C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-modules-values\node_modules\postcss\lib\stringifier.js133963843968742684 0
 84C:\Users\rumar\Documents\Web Development\Moshify\node_modules\ajv\lib\dotjs\oneOf.js133963843969694852 0
 131C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-modules-values\node_modules\postcss\lib\terminal-highlight.js133963843968899382 0
-76C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress.1fc6afd9.png133963850909196361 0
+76C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress.1fc6afd9.png133963873720057300 0
 130C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-minify-gradients\node_modules\postcss-value-parser\README.md133963843959591824 0
 98C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2022\AddToKeptObjects.js133963843971149888 0
 121C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-modules-values\node_modules\postcss\lib\tokenize.js133963843969055930 0
@@ -11403,7 +11392,7 @@
 125C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-calc\node_modules\postcss-selector-parser\dist\index.js133963843988492976 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2022\HourFromTime.js133963843982289680 0
 130C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-calc\node_modules\postcss-selector-parser\dist\tokenTypes.js133963843988737510 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\Support.6fc8fe9e.png133963850909196361 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\Support.6fc8fe9e.png133963873720057300 0
 121C:\Users\rumar\Documents\Web Development\Moshify\node_modules\postcss-calc\node_modules\postcss-selector-parser\dist\util133963843988737510 1
 89C:\Users\rumar\Documents\Web Development\Moshify\node_modules\is-date-object\CHANGELOG.md133963843960224013 0
 116C:\Users\rumar\Documents\Web Development\Moshify\node_modules\caniuse-lite\data\features\mdn-text-decoration-line.js133963843979100262 0
@@ -11518,7 +11507,7 @@
 101C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\modules\es6.typed.int8-array.js133963843980873560 0
 72C:\Users\rumar\Documents\Web Development\Moshify\node_modules\pn\repl.js133963843967467462 0
 72C:\Users\rumar\Documents\Web Development\Moshify\node_modules\pn\scripts133963843968742684 1
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\Support@2x.c23c9489.png133963850919597939 0
+77C:\Users\rumar\Documents\Web Development\Moshify\dist\Support@2x.c23c9489.png133963873720057300 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\parcel-bundler\lib\scope-hoisting\hoist.js133963843970990611 0
 74C:\Users\rumar\Documents\Web Development\Moshify\node_modules\pn\stream.js133963843967627839 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\typed\array-buffer.js133963843976374123 0
@@ -12272,7 +12261,7 @@
 111C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\postcss\lib\previous-map.js133963843964415774 0
 90C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2025\BinaryOr.js133963843974188836 0
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\parcel-bundler\lib\visitors\globals.js133963843972999141 0
-79C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress@2x.abb75674.png133963850919597939 0
+79C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress@2x.abb75674.png133963873720057300 0
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\parcel-bundler\lib\visitors\process.js133963843973097652 0
 78C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\api.js133963843959090749 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\parcel-bundler\lib\utils\bundleReport.js133963843972047087 0
@@ -12503,7 +12492,7 @@
 115C:\Users\rumar\Documents\Web Development\Moshify\node_modules\object-copy\node_modules\define-property\package.json133963843948738458 0
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\caniuse-lite\data\regions\IN.js133963843978144137 0
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\nwsapi\package.json133963843958414923 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\banner.0d9bbe2c.webp133963850901031914 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\banner.0d9bbe2c.webp133963873720057300 0
 84C:\Users\rumar\Documents\Web Development\Moshify\node_modules\is-binary-path\license133963843951783154 0
 78C:\Users\rumar\Documents\Web Development\Moshify\node_modules\nwsapi\README.md133963843960102754 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\array\push.js133963843986520171 0
@@ -14023,7 +14012,6 @@
 91C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\node_modules\ws\LICENSE133963843948738458 0
 96C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\node_modules\ws\package.json133963843962989524 0
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\node_modules\ws\README.md133963843963399781 0
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\easy.24d6e896.webp133963840072570557 0
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\node_modules\ws\lib\extension.js133963843957624298 0
 109C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\node_modules\ws\lib\permessage-deflate.js133963843959755402 0
 126C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\helpers\lib\helpers\classStaticPrivateFieldSpecSet.js.map133963843972047087 0
@@ -14308,7 +14296,6 @@
 108C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\FocusEvent.js133963843972526901 0
 112C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\FocusEventInit.js133963843972526901 0
 70C:\Users\rumar\Documents\Web Development\Moshify\components\grids.html133963062439419614 0
-80C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress@2x.642fdc40.webp133963840072580561 0
 116C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\GetRootNodeOptions.js133963843972684344 0
 117C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\GlobalEventHandlers.js133963843972684344 0
 113C:\Users\rumar\Documents\Web Development\Moshify\node_modules\jsdom\lib\jsdom\living\generated\HashChangeEvent.js133963843972684344 0
@@ -14562,7 +14549,7 @@
 78C:\Users\rumar\Documents\Web Development\Moshify\node_modules\isstream\test.js133963843953719447 0
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\isobject\index.d.ts133963843955460239 0
 101C:\Users\rumar\Documents\Web Development\Moshify\node_modules\csso\node_modules\css-tree\package.json133963843973524912 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\popular.e8eef43c.svg133963850919597939 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\popular.e8eef43c.svg133963873720057300 0
 78C:\Users\rumar\Documents\Web Development\Moshify\node_modules\isobject\LICENSE133963843951763169 0
 83C:\Users\rumar\Documents\Web Development\Moshify\node_modules\isobject\package.json133963843948246555 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\runtime\helpers\esm\superPropGet.js133963843973871998 0
@@ -15647,7 +15634,6 @@
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\generator\lib\generators\types.js133963843967627839 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\acorn\dist133963843963822867 1
 90C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2018\IsRegExp.js133963843985429716 0
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\banner@2x.bcf558bc.webp133963840072570557 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\acorn\package.json133963843960102754 0
 121C:\Users\rumar\Documents\Web Development\Moshify\node_modules\babel-plugin-polyfill-corejs2\node_modules\semver\range.bnf133963843950617185 0
 103C:\Users\rumar\Documents\Web Development\Moshify\node_modules\htmlnano\node_modules\acorn\dist\acorn.js133963843958414923 0
@@ -16514,7 +16500,6 @@
 97C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\assertRecord.js133963843973448999 0
 91C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\assign.js133963843973472727 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\bytesAsInteger.js133963843975541095 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\normalize.1114379f.js133963840074528236 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\defaultEndianness.js133963843978781964 0
 107C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\fromPropertyDescriptor.js133963843980207725 0
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\helpers\getInferredName.js133963843980526329 0
@@ -17115,7 +17100,7 @@
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\Number\index.js133963843982449519 0
 98C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\Number\leftShift.js133963843986991092 0
 98C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\Number\sameValue.js133963843990596130 0
-73C:\Users\rumar\Documents\Web Development\Moshify\dist\sprite.51889202.svg133963850919597939 0
+73C:\Users\rumar\Documents\Web Development\Moshify\dist\sprite.51889202.svg133963873720057300 0
 105C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\Number\signedRightShift.js133963843991220832 0
 97C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\Number\subtract.js133963843991704638 0
 107C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2023\Number\unsignedRightShift.js133963843993857747 0
@@ -17492,7 +17477,7 @@
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\types\lib\builders\productions.js133963843968104412 0
 97C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2020\NumberBitwiseOp.js133963843988580340 0
 96C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2020\NumberToBigInt.js133963843988580340 0
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.33edd52a.js.map133963850919597939 0
+77C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.33edd52a.js.map133963873720057300 0
 96C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\symbol\index.js133963843984485113 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2020\NumericToRawBytes.js133963843988737510 0
 107C:\Users\rumar\Documents\Web Development\Moshify\node_modules\es-abstract\2020\OrdinaryDefineOwnProperty.js133963843989159100 0
@@ -18191,7 +18176,7 @@
 103C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\win32-x64-node-7\deasync.node133963843975137975 0
 103C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\win32-x64-node-6\deasync.node133963843975137975 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\win32-x64-node-20\deasync.node133963843974819509 0
-80C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress@2x.c660434a.webp133963850901222128 0
+80C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress@2x.c660434a.webp133963873720057300 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\win32-x64-node-10\deasync.node133963843974030502 0
 106C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\win32-x64-node-0.11\deasync.node133963843974030502 0
 106C:\Users\rumar\Documents\Web Development\Moshify\node_modules\deasync\bin\win32-x64-node-0.10\deasync.node133963843973871998 0
@@ -18529,7 +18514,6 @@
 78C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@nodelib\fs.stat133963843950862158 1
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\css-tree\lib\parser133963843972684344 1
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\css-tree\lib\syntax133963843971149888 1
-78C:\Users\rumar\Documents\Web Development\Moshify\dist\testimonial.1a04d336.png133963840072580561 0
 91C:\Users\rumar\Documents\Web Development\Moshify\node_modules\css-tree\lib\walker\create.js133963843967467462 0
 88C:\Users\rumar\Documents\Web Development\Moshify\node_modules\argparse\lib\action\append133963843960601322 1
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\object\is.js133963843984798205 0
@@ -19304,7 +19288,6 @@
 58C:\Users\rumar\Documents\Web Development\Moshify\.cache\bf133963840074921649 1
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\number\to-fixed.js133963843987626965 0
 103C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\number\to-precision.js133963843987626965 0
-80C:\Users\rumar\Documents\Web Development\Moshify\dist\normalize.1114379f.css.map133963840074941720 0
 127C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\plugin-transform-explicit-resource-management\package.json133963843956544450 0
 95C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\number\virtual133963843987786956 1
 107C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\number\virtual\iterator.js133963843984955264 0
@@ -19312,7 +19295,6 @@
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\math\asinh.js133963843976511310 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\math\atanh.js133963843976634940 0
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\math\cbrt.js133963843976717413 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\fast.45dd6479.png133963840072570557 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\math\clamp.js133963843976717413 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\math\clz32.js133963843976875424 0
 93C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\math\cosh.js133963843977664824 0
@@ -19383,7 +19365,7 @@
 100C:\Users\rumar\Documents\Web Development\Moshify\node_modules\babel-runtime\core-js\symbol\search.js133963843974663179 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\array\virtual\keys.js133963843985111868 0
 101C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\array\virtual\map.js133963843985748019 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\fast@2x.d6a695e5.webp133963850901164449 0
+75C:\Users\rumar\Documents\Web Development\Moshify\dist\fast@2x.d6a695e5.webp133963873720057300 0
 108C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\helper-compilation-targets\node_modules133963844004068716 1
 103C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\library\fn\array\virtual\slice.js133963843987148453 0
 108C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\helpers\lib\helpers\importDeferProxy.js133963843973298194 0
@@ -19420,7 +19402,7 @@
 91C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\fn\clear-immediate.js133963843976875424 0
 81C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\fn\delay.js133963843977824642 0
 80C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\fn\dict.js133963843977983892 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.aa0bb0ba.css133963850919597939 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.aa0bb0ba.css133963873720057300 0
 88C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\fn\dom-collections133963843984955264 1
 94C:\Users\rumar\Documents\Web Development\Moshify\.cache\05\2d2d56311468e249f3332349d61547.json133963840080455798 0
 78C:\Users\rumar\Documents\Web Development\Moshify\node_modules\core-js\fn\error133963843984641723 1
@@ -20452,7 +20434,7 @@
 92C:\Users\rumar\Documents\Web Development\Moshify\node_modules\browserify-zlib\src\binding.js133963843960843901 0
 90C:\Users\rumar\Documents\Web Development\Moshify\node_modules\browserify-zlib\src\index.js133963843961543378 0
 90C:\Users\rumar\Documents\Web Development\Moshify\node_modules\browserify-zlib\lib\index.js133963843958914485 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\fast.c4193f97.png133963850909196361 0
+71C:\Users\rumar\Documents\Web Development\Moshify\dist\fast.c4193f97.png133963873720057300 0
 86C:\Users\rumar\Documents\Web Development\Moshify\node_modules\browserify-sign\algos.js133963843950312052 0
 85C:\Users\rumar\Documents\Web Development\Moshify\node_modules\browserify-sign\browser133963843959220585 1
 86C:\Users\rumar\Documents\Web Development\Moshify\node_modules\browserify-sign\index.js133963843954546617 0
@@ -20540,7 +20522,7 @@
 92C:\Users\rumar\Documents\Web Development\Moshify\node_modules\available-typed-arrays\LICENSE133963843951883175 0
 85C:\Users\rumar\Documents\Web Development\Moshify\node_modules\brfs\test\files\tr.beep133963843968899382 0
 94C:\Users\rumar\Documents\Web Development\Moshify\node_modules\brfs\test\files\with_comments.js133963843969055930 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\logo.d7e3eedd.svg133963850909337124 0
+71C:\Users\rumar\Documents\Web Development\Moshify\dist\logo.d7e3eedd.svg133963873719878736 0
 83C:\Users\rumar\Documents\Web Development\Moshify\node_modules\brfs\example\async.js133963843959544062 0
 82C:\Users\rumar\Documents\Web Development\Moshify\node_modules\brfs\example\main.js133963843960224013 0
 85C:\Users\rumar\Documents\Web Development\Moshify\node_modules\brfs\example\robot.html133963843960985985 0
@@ -20562,7 +20544,6 @@
 75C:\Users\rumar\Documents\Web Development\Moshify\node_modules\bn.js\LICENSE133963843948388734 0
 117C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\plugin-transform-export-namespace-from\README.md133963843950377321 0
 80C:\Users\rumar\Documents\Web Development\Moshify\node_modules\bn.js\package.json133963843954916194 0
-76C:\Users\rumar\Documents\Web Development\Moshify\dist\normalize.1114379f.css133963840072349689 0
 77C:\Users\rumar\Documents\Web Development\Moshify\node_modules\bn.js\README.md133963843956743976 0
 102C:\Users\rumar\Documents\Web Development\Moshify\node_modules\binary-extensions\binary-extensions.json133963843950291206 0
 92C:\Users\rumar\Documents\Web Development\Moshify\node_modules\binary-extensions\package.json133963843948388734 0
@@ -21645,7 +21626,6 @@
 92C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\preset-env\package.json133963843969216881 0
 99C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\preset-env\node_modules\semver133963843958187705 1
 103C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\preset-env\node_modules\semver\bin133963843952221328 1
-79C:\Users\rumar\Documents\Web Development\Moshify\dist\normalize.1114379f.js.map133963840074813483 0
 107C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\preset-env\node_modules\semver\LICENSE133963843948912531 0
 112C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\preset-env\node_modules\semver\package.json133963843957198486 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\preset-env\node_modules\.bin\semver133963844004375943 0
@@ -22229,7 +22209,7 @@
 113C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\core\lib\tools\build-external-helpers.js.map133963843971888530 0
 97C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\core\lib\parser\index.js.map133963843971684026 0
 89C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\core\lib\parser\util133963843971771857 1
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\fast.16f3521c.webp133963850901031914 0
+72C:\Users\rumar\Documents\Web Development\Moshify\dist\fast.16f3521c.webp133963873720057300 0
 97C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\core\lib\gensync-utils\fs.js133963843971149888 0
 101C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\core\lib\gensync-utils\fs.js.map133963843971149888 0
 104C:\Users\rumar\Documents\Web Development\Moshify\node_modules\@babel\core\lib\errors\config-error.js.map133963843970990611 0
@@ -22351,39 +22331,21 @@
 70C:\Users\rumar\Documents\Web Development\Moshify\images\wordpress.webp133963637582963688 0
 72C:\Users\rumar\Documents\Web Development\Moshify\images\wordpress@2x.png133963637776133442 0
 73C:\Users\rumar\Documents\Web Development\Moshify\images\wordpress@2x.webp133963637894573380 0
-73C:\Users\rumar\Documents\Web Development\Moshify\dist\banner.685b65ab.png133963850909196361 0
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\banner@2x.0e762bd5.webp133963850901164449 0
-76C:\Users\rumar\Documents\Web Development\Moshify\dist\banner@2x.4174fe9a.png133963840072570557 0
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\easy.31afb0c8.webp133963850901031914 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\easy.fc77ae94.png133963840072570557 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\easy@2x.7c672b7b.webp133963850901164449 0
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\fast.0be864c7.webp133963840072570557 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\fast@2x.22894322.webp133963840072570557 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\fast@2x.50cb3600.png133963850919597939 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\fast@2x.9f46feda.png133963840072570557 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad.58bc7cc7.png133963850909196361 0
-72C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad.5df160c2.webp133963850901082252 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad@2x.137598ff.webp133963840072610558 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad@2x.ca66facd.webp133963850901222128 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\logo.236e4034.svg133963840072560547 0
-70C:\Users\rumar\Documents\Web Development\Moshify\dist\main.fb6bbcaf.js133963840074528236 0
-73C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.33edd52a.js133963850919597939 0
-78C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.9a5233f5.css.map133963850919597939 0
-78C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.aa0bb0ba.css.map133963850919597939 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\popular.ef67f06e.svg133963840072560547 0
-73C:\Users\rumar\Documents\Web Development\Moshify\dist\sprite.5ec50489.svg133963840072560547 0
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\styles.b61e60ae.css.map133963840074941720 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\support.118ea66f.webp133963840072570557 0
-74C:\Users\rumar\Documents\Web Development\Moshify\dist\Support.779e1b61.png133963840072570557 0
-75C:\Users\rumar\Documents\Web Development\Moshify\dist\support.fd0d7202.webp133963850901031914 0
-78C:\Users\rumar\Documents\Web Development\Moshify\dist\Support@2x.87433e82.webp133963840072580561 0
-78C:\Users\rumar\Documents\Web Development\Moshify\dist\testimonial.21ebb5a3.png133963850919597939 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\tick.2a1a279a.svg133963840072560547 0
-71C:\Users\rumar\Documents\Web Development\Moshify\dist\tick.2c6066c7.svg133963850909337124 0
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress.0fe9383a.webp133963850901082252 0
-77C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress.69648a24.webp133963840072570557 0
-76C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress.7c061370.png133963840072570557 0
-79C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress@2x.d3f80baa.png133963840072600545 0
+73C:\Users\rumar\Documents\Web Development\Moshify\dist\banner.685b65ab.png133963873720057300 0
+77C:\Users\rumar\Documents\Web Development\Moshify\dist\banner@2x.0e762bd5.webp133963873720057300 0
+72C:\Users\rumar\Documents\Web Development\Moshify\dist\easy.31afb0c8.webp133963873720057300 0
+75C:\Users\rumar\Documents\Web Development\Moshify\dist\easy@2x.7c672b7b.webp133963873720057300 0
+74C:\Users\rumar\Documents\Web Development\Moshify\dist\fast@2x.50cb3600.png133963873720057300 0
+71C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad.58bc7cc7.png133963873720057300 0
+72C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad.5df160c2.webp133963873720057300 0
+75C:\Users\rumar\Documents\Web Development\Moshify\dist\ipad@2x.ca66facd.webp133963873720057300 0
+73C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.33edd52a.js133963873720057300 0
+78C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.9a5233f5.css.map133963873720057300 0
+78C:\Users\rumar\Documents\Web Development\Moshify\dist\Moshify.aa0bb0ba.css.map133963873720057300 0
+75C:\Users\rumar\Documents\Web Development\Moshify\dist\support.fd0d7202.webp133963873720057300 0
+78C:\Users\rumar\Documents\Web Development\Moshify\dist\testimonial.21ebb5a3.png133963873720057300 0
+71C:\Users\rumar\Documents\Web Development\Moshify\dist\tick.2c6066c7.svg133963873720057300 0
+77C:\Users\rumar\Documents\Web Development\Moshify\dist\Wordpress.0fe9383a.webp133963873720057300 0
 71C:\Users\rumar\Documents\Web Development\Moshify\components\badges.html133962864482793204 0
 71C:\Users\rumar\Documents\Web Development\Moshify\components\footer.html133963771538714005 0
 70C:\Users\rumar\Documents\Web Development\Moshify\components\links.html133962847315211603 0
